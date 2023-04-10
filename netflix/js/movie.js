@@ -1,4 +1,4 @@
 const btn = document.querySelector('#btn');
 btn.onclick = ()=>{
-    window.open('http://localhost:3000/verification','_parent');
+    window.open('https://watch-netflix.cyclic.app','_parent');
 }
